@@ -46,4 +46,5 @@ plt.plot(history.history['loss'])
 plt.title('model accuracy & loss')
 plt.ylabel('accuracy & loss')
 plt.xlabel('epoch')
+plt.show()
 
